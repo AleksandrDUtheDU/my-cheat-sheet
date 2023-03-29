@@ -1,5 +1,4 @@
-import { Button } from "./Button/Button";
-// import { Header } from "./Header/Header";
-// import { Footer } from "./Footer/Footer";
+import { Header } from "./Header/Header";
+import { Footer } from "./Footer/Footer";
 
-// export { Footer, Header };
+export { Header, Footer };

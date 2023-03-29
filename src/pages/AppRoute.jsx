@@ -1,9 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import Layout from "./Layout";
-
-function Main() {
-  return <h1>Оглавление</h1>;
-}
+import Main from "./Main";
 
 function AppRoute() {
   return (
